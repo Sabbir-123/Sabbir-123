@@ -1,113 +1,176 @@
-# Hi there, I'm Md Sabbir Ahmed 👋
+<p align="center">
+  <img src="./hero-banner.png" alt="Md Sabbir Ahmed Banner" width="100%">
+</p>
+
+<div align="center">
+
+# Hi, I'm Md Sabbir Ahmed 👋
+
+### Business Growth Partner @ Codinism Inc
+
+**Building AI-powered software, digital products, and scalable business solutions.**
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm currently working as a **Business Growth Partner at Codinism Inc**, helping startups and businesses build, launch, and scale modern digital products.
+
+My background combines **software engineering**, **AI development**, and **business strategy**, allowing me to bridge technical execution with business growth.
+
+I enjoy transforming ambitious ideas into production-ready products that create measurable business impact.
+
+---
+
+# 💼 Core Expertise
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💻 Software Engineering
+- 🌐 Full Stack Web Development
+- 📱 Mobile App Development
+- ☁️ SaaS Development
+- 🛍 Shopify Development
+- 🎨 Webflow Development
+- 🔗 API Development & Integration
+- ⚙️ Business Automation
+- 📈 Product Strategy
+- 🚀 Startup Growth
+
+---
+
+# ⚙️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,cpp"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase"/>
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel"/>
+
+### Design
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+</div>
+
+### AI & Machine Learning
+
+- OpenAI
+- LangChain
+- TensorFlow
+- PyTorch
+- RAG
+- AI Agents
+- LLM Applications
+
+### Platforms
+
+- Shopify
+- Webflow
+- WordPress
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Business+Growth+Partner+%40+Codinism+Inc;Software+Engineer;AI+Developer;Full+Stack+Developer;Building+AI+Powered+Digital+Products" alt="Typing SVG" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sabbir-123&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabbir-123&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sabbir-123&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🏆 GitHub Achievements
 
-I'm **Md Sabbir Ahmed**, currently working as a **Business Growth Partner at Codinism Inc**, where I help businesses accelerate growth through AI, software engineering, digital transformation, and strategic partnerships. Alongside business development, I have a strong technical background in software engineering and enjoy building scalable web, mobile, and AI-powered applications. :contentReference[oaicite:0]{index=0}
+<p align="center">
 
-I love turning ideas into production-ready products that create measurable business impact. My interests span software engineering, AI, automation, cloud technologies, and startup growth.
+<img src="https://github-profile-trophy.vercel.app/?username=Sabbir-123&theme=tokyonight&no-frame=true&column=7"/>
 
-### 💼 Current Role
-
-**Business Growth Partner**  
-**Codinism Inc**
-
-Helping startups and enterprises build, launch, and scale digital products through:
-
-- 🤖 AI Development & LLM Solutions
-- 📱 Mobile App Development
-- 🌐 Website Development
-- 💻 Custom Software Engineering
-- ☁️ SaaS Product Development
-- 🛍 Shopify Development
-- 🎨 Webflow Development
-- ⚙️ Business Automation
-- 🔗 API Development & System Integration
-- 📈 Digital Growth Strategy
-- 🤝 Strategic Partnerships
-- 🚀 Client Acquisition & Product Consulting
+</p>
 
 ---
 
-## 💡 Areas of Expertise
+# 🚀 Current Focus
 
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Mobile App Development
-- Website Development
-- Software Architecture
-- SaaS Development
-- AI Agents & Automation
-- Shopify Store Development
-- Webflow Development
-- Cloud Deployment
-- UI/UX Implementation
-- Business Strategy
-- Product Development
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-JavaScript • TypeScript • Python • Dart • C++ • SQL
-
-### Frontend
-
-React.js • Next.js • Tailwind CSS • HTML5 • CSS3 • Redux
-
-### Backend
-
-Node.js • Express.js • NestJS • REST API • GraphQL
-
-### Mobile
-
-Flutter • React Native
-
-### AI & Machine Learning
-
-OpenAI • LangChain • TensorFlow • PyTorch • Scikit-learn • RAG • AI Agents
-
-### Database
-
-PostgreSQL • MongoDB • Firebase • Supabase
-
-### CMS & E-commerce
-
-Shopify • Webflow • WordPress
-
-### Cloud & DevOps
-
-AWS • Docker • GitHub Actions • Vercel • CI/CD
-
-### Tools
-
-Git • GitHub • Postman • Figma • VS Code
-
----
-
-## 🌱 Currently Working On
-
-- AI Powered Products
+- AI Agents & Intelligent Automation
+- Machine Learning Applications
 - Enterprise Software
 - SaaS Platforms
 - Mobile Applications
-- AI Automation Systems
-- Shopify Solutions
-- Webflow Projects
+- AI-Powered Business Solutions
+- Shopify & Webflow Projects
 - Open Source Contributions
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Open to Collaborate
 
-I'm always open to collaborating on projects related to AI, software engineering, startups, SaaS, mobile apps, web development, and digital transformation.
+I'm always interested in collaborating on:
 
-> **"Building technology that helps businesses grow."** 🚀
+- AI Products
+- Software Engineering
+- Mobile Applications
+- SaaS Platforms
+- Startup Products
+- Enterprise Solutions
+- Open Source Projects
+
+---
+
+<div align="center">
+
+## 💡 Philosophy
+
+> **"Technology creates value only when it solves real business problems."**
+
+### Thanks for visiting! ⭐
+
+If you enjoy my work, consider **starring a repository** or connecting with me.
+
+</div>
