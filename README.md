@@ -2,109 +2,137 @@
   <img src="./hero-banner.png" alt="Md Sabbir Ahmed Banner" width="100%">
 </p>
 
-<div align="center">
+<h1 align="center">
+Hi 👋 I'm Md Sabbir Ahmed
+</h1>
 
-# Hi, I'm Md Sabbir Ahmed 👋
-
-### Business Growth Partner @ Codinism Inc
-
-**Building AI-powered software, digital products, and scalable business solutions.**
-
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
+<p align="center">
+Business Growth Partner @ Codinism Inc
 </p>
 
-</div>
+<p align="center">
+Building AI-powered software, scalable digital products, and business growth systems.
+</p>
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 # 🚀 About Me
 
-I'm currently working as a **Business Growth Partner at Codinism Inc**, helping startups and businesses build, launch, and scale modern digital products.
+I help startups and businesses transform ambitious ideas into modern digital products.
 
-My background combines **software engineering**, **AI development**, and **business strategy**, allowing me to bridge technical execution with business growth.
+Currently working as a **Business Growth Partner at Codinism Inc**, I bridge the gap between business strategy and engineering by delivering AI-powered software, scalable web platforms, mobile applications, and intelligent automation solutions.
 
-I enjoy transforming ambitious ideas into production-ready products that create measurable business impact.
-
----
-
-# 💼 Core Expertise
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💻 Software Engineering
-- 🌐 Full Stack Web Development
-- 📱 Mobile App Development
-- ☁️ SaaS Development
-- 🛍 Shopify Development
-- 🎨 Webflow Development
-- 🔗 API Development & Integration
-- ⚙️ Business Automation
-- 📈 Product Strategy
-- 🚀 Startup Growth
+I enjoy solving complex business problems with technology while continuously exploring Artificial Intelligence, Machine Learning, SaaS architecture, and cloud technologies.
 
 ---
 
-# ⚙️ Tech Stack
+# 💼 What I Build
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### Languages
+### 🤖 AI
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,dart,cpp"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
-
-### Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase"/>
-
-### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel"/>
-
-### Design
-
-<img src="https://skillicons.dev/icons?i=figma"/>
-
-</div>
-
-### AI & Machine Learning
-
-- OpenAI
-- LangChain
-- TensorFlow
-- PyTorch
-- RAG
+- AI Applications
 - AI Agents
-- LLM Applications
+- LLM Integrations
+- Machine Learning
+- Intelligent Automation
 
-### Platforms
+</td>
+
+<td width="50%">
+
+### 💻 Software
+
+- Full Stack Web Apps
+- Enterprise Software
+- SaaS Platforms
+- REST APIs
+- Cloud Applications
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📱 Mobile
+
+- Flutter
+- React Native
+- Firebase
+- Cross Platform Apps
+
+</td>
+
+<td>
+
+### 🌍 Web
 
 - Shopify
 - Webflow
-- WordPress
+- Next.js
+- React.js
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,cpp,react,nextjs,nodejs,express,nestjs,flutter,tailwind,firebase,supabase,postgres,mongodb,docker,aws,git,github,figma,vercel"/>
+
+</p>
+
+<p align="center">
+
+**AI**
+
+OpenAI • LangChain • TensorFlow • PyTorch • RAG • AI Agents
+
+</p>
+
+<p align="center">
+
+**Platforms**
+
+Shopify • Webflow • WordPress
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Products | AI Agents, LLM Applications, Intelligent Automation |
+| 👕 Aureevo | Premium fashion eCommerce platform |
+| 🏢 Enterprise SaaS | Business management and workflow automation |
+| 📱 Mobile Apps | Cross-platform Flutter applications |
+| 🌐 Modern Web Apps | High-performance Next.js applications |
 
 ---
 
@@ -126,51 +154,51 @@ I enjoy transforming ambitious ideas into production-ready products that create 
 
 ---
 
-# 🏆 GitHub Achievements
+# 🌱 Currently Working On
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sabbir-123&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
-
----
-
-# 🚀 Current Focus
-
-- AI Agents & Intelligent Automation
-- Machine Learning Applications
-- Enterprise Software
-- SaaS Platforms
-- Mobile Applications
-- AI-Powered Business Solutions
-- Shopify & Webflow Projects
-- Open Source Contributions
+- 🤖 AI Agents & Business Automation
+- 🧠 Machine Learning Applications
+- ☁️ Enterprise SaaS Products
+- 📱 Cross Platform Mobile Apps
+- 🌐 Modern Web Platforms
+- 🚀 Startup MVP Development
 
 ---
 
-# 🤝 Open to Collaborate
+# 🎯 2026 Goals
 
-I'm always interested in collaborating on:
+- Build world-class AI products
+- Launch multiple SaaS platforms
+- Contribute more to Open Source
+- Help startups scale through technology
+- Build products used by millions
 
-- AI Products
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in collaborating on exciting projects related to:
+
+- Artificial Intelligence
+- Machine Learning
 - Software Engineering
+- SaaS Development
 - Mobile Applications
-- SaaS Platforms
+- Shopify
+- Webflow
+- Enterprise Software
 - Startup Products
-- Enterprise Solutions
-- Open Source Projects
 
 ---
 
 <div align="center">
 
-## 💡 Philosophy
+## 💭 Philosophy
 
-> **"Technology creates value only when it solves real business problems."**
+> **Technology creates value only when it solves real business problems.**
 
-### Thanks for visiting! ⭐
+<br>
 
-If you enjoy my work, consider **starring a repository** or connecting with me.
+### ⭐ If you like my work, consider giving a star to my repositories.
 
 </div>
