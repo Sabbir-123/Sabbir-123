@@ -1,38 +1,113 @@
-# Hello, I'm Sabbir Ahmed! 👋
+# Hi there, I'm Md Sabbir Ahmed 👋
 
-Welcome to my GitHub profile!
-
-## My Coding Journey 🌱
-
-I’ve been passionate about coding for several years, and I’ve been actively involved in developing projects up until 2023. However, 2024 was a busy year due to my job commitments. Now, in 2025, I am excited to restart my journey, and changing this profile is just the beginning!
-
-🚀 **Let's code and learn together!**
-
-## Technologies I've Worked With 💻
-
-Here are some of the technologies and tools I've worked with:
-
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff) Node.js
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff) JavaScript
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=ffffff) Express.js
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=ffffff) Next.js
-- ![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=ffffff) React.js
-- ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=ffffff) Tailwind CSS
-
-## What's Next? 🚧
-
-With 2025 already underway, I’m now ready to dive back into coding and push my limits. I’m excited to start new projects, collaborate with other developers, and continue learning.
-
-Here’s to the next chapter in my coding journey! 🙌
-
-## Wish Me Luck 🍀
-
-Thanks for checking out my profile. Stay tuned for updates on my progress, and I hope you’ll be part of my journey as I continue to grow and improve.
-
-> "The journey of a thousand miles begins with a single step." - Lao Tzu
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Business+Growth+Partner+%40+Codinism+Inc;Software+Engineer;AI+Developer;Full+Stack+Developer;Building+AI+Powered+Digital+Products" alt="Typing SVG" />
+</p>
 
 ---
 
-Feel free to reach out if you have any questions or want to collaborate!
+## 🚀 About Me
 
+I'm **Md Sabbir Ahmed**, currently working as a **Business Growth Partner at Codinism Inc**, where I help businesses accelerate growth through AI, software engineering, digital transformation, and strategic partnerships. Alongside business development, I have a strong technical background in software engineering and enjoy building scalable web, mobile, and AI-powered applications. :contentReference[oaicite:0]{index=0}
 
+I love turning ideas into production-ready products that create measurable business impact. My interests span software engineering, AI, automation, cloud technologies, and startup growth.
+
+### 💼 Current Role
+
+**Business Growth Partner**  
+**Codinism Inc**
+
+Helping startups and enterprises build, launch, and scale digital products through:
+
+- 🤖 AI Development & LLM Solutions
+- 📱 Mobile App Development
+- 🌐 Website Development
+- 💻 Custom Software Engineering
+- ☁️ SaaS Product Development
+- 🛍 Shopify Development
+- 🎨 Webflow Development
+- ⚙️ Business Automation
+- 🔗 API Development & System Integration
+- 📈 Digital Growth Strategy
+- 🤝 Strategic Partnerships
+- 🚀 Client Acquisition & Product Consulting
+
+---
+
+## 💡 Areas of Expertise
+
+- Artificial Intelligence
+- Machine Learning
+- Full Stack Development
+- Mobile App Development
+- Website Development
+- Software Architecture
+- SaaS Development
+- AI Agents & Automation
+- Shopify Store Development
+- Webflow Development
+- Cloud Deployment
+- UI/UX Implementation
+- Business Strategy
+- Product Development
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+JavaScript • TypeScript • Python • Dart • C++ • SQL
+
+### Frontend
+
+React.js • Next.js • Tailwind CSS • HTML5 • CSS3 • Redux
+
+### Backend
+
+Node.js • Express.js • NestJS • REST API • GraphQL
+
+### Mobile
+
+Flutter • React Native
+
+### AI & Machine Learning
+
+OpenAI • LangChain • TensorFlow • PyTorch • Scikit-learn • RAG • AI Agents
+
+### Database
+
+PostgreSQL • MongoDB • Firebase • Supabase
+
+### CMS & E-commerce
+
+Shopify • Webflow • WordPress
+
+### Cloud & DevOps
+
+AWS • Docker • GitHub Actions • Vercel • CI/CD
+
+### Tools
+
+Git • GitHub • Postman • Figma • VS Code
+
+---
+
+## 🌱 Currently Working On
+
+- AI Powered Products
+- Enterprise Software
+- SaaS Platforms
+- Mobile Applications
+- AI Automation Systems
+- Shopify Solutions
+- Webflow Projects
+- Open Source Contributions
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collaborating on projects related to AI, software engineering, startups, SaaS, mobile apps, web development, and digital transformation.
+
+> **"Building technology that helps businesses grow."** 🚀
